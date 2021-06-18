@@ -7,7 +7,7 @@ require_once 'config/global.php';
 require_once 'core/baseController.php';
 //Funciones para el controlador frontal
 require_once 'core/frontControllerFunct.php';
-
+//comment
 
 //Cargamos controladores y acciones
 if (isset($_GET["controller"])) {
